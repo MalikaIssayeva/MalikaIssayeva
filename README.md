@@ -12,7 +12,7 @@ Currently focused on frontend development.
 ## Projects
 - [task-planner](https://github.com/MalikaIssayeva/task-planner) - simple task planner web applicaton
 - [piano-player](https://github.com/MalikaIssayeva/piano-player) - web piano player
-- [landing-m3]([link](https://github.com/MalikaIssayeva/landing-m3) - dynamic, responsive webpage with pixel perfect design
+- [landing-m3](https://github.com/MalikaIssayeva/landing-m3) - dynamic, responsive webpage with pixel perfect design
 - [creditcard](https://github.com/MalikaIssayeva/creditcard) – comprehensive tool designed to manage and validate credit card numbers
 - [space-news-dashboard](https://github.com/MalikaIssayeva/space-news-dashboard) – simple space news dashboard
 - [markov-chain](https://github.com/MalikaIssayeva/markov-chain) – A Go program that generates realistic-sounding random text using a Markov Chain algorithm
