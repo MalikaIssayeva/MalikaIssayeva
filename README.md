@@ -20,7 +20,6 @@ Currently focused on frontend development.
 ## Contact Me
 - **Email:** malika.2mgroup@gmail.com
 - **LinkedIn:** [My LinkedIn](http://linkedin.com/in/malika-issayeva-406539272)  
-- **Twitter:** [Your Twitter](link)  
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MalikaIssayeva&show_icons=true&theme=radical)
