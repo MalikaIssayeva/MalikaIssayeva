@@ -10,9 +10,10 @@ Currently focused on frontend development.
 - **Tools & Platforms:** Git, GitHub, VS Code
 
 ## Projects
-- [Project 1](link) - Brief description  
-- [Project 2](link) - Brief description  
-- [Project 3](link) - Brief description  
+- [task-planner](https://github.com/MalikaIssayeva/task-planner) - simple task planner web applicaton
+- [piano-player](https://github.com/MalikaIssayeva/piano-player) - web piano player
+- [landing-m3]([link](https://github.com/MalikaIssayeva/landing-m3)) - dynamic, responsive webpage with pixel perfect design
+- [creditcard](https://github.com/MalikaIssayeva/creditcard) – comprehensive tool designed to manage and validate credit card numbers
 
 ## Contact Me
 - **Email:** malika.2mgroup@gmail.com
