@@ -1,7 +1,7 @@
 # MalikaIssayeva
 
 ## About Me
-I'm a computer science student, passionate about learning and building projects in HTML, CSS, JavaScript.  
+I'm a computer science student, passionate about learning and building projects in HTML, CSS, JavaScript, Go.  
 Currently focused on frontend development.
 
 ## Skills
